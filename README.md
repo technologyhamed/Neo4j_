@@ -1,2 +1,5 @@
 # Neo4j
-_![ga-home](https://github.com/user-attachments/assets/11ec2bf6-ee52-4e46-99e9-d0ff7e59ddb3)
+
+<div style="text-align: center;">  
+    <img src="https://github.com/user-attachments/assets/93c608ef-7ba7-4467-8ba1-830b2cf46a08" alt="ga-home" />    
+</div>
